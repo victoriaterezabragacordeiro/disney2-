@@ -4,13 +4,11 @@
     box-sizing: border-box;
 }
 
-/* Estilos do corpo */
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
 }
 
-/* Estilos do cabeçalho */
 header {
     background-color: #f44336;
     color: white;
@@ -18,7 +16,6 @@ header {
     text-align: center;
 }
 
-/* Estilos da navegação */
 nav {
     background-color: #333;
     padding: 10px;
@@ -39,7 +36,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Estilos da galeria */
 #gallery {
     text-align: center;
     padding: 20px;
@@ -54,7 +50,6 @@ nav ul li a {
     max-width: 100%;
 }
 
-/* Estilos do rodapé */
 footer {
     background-color: #333;
     color: white;
